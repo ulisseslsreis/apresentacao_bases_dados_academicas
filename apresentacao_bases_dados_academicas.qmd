@@ -1,0 +1,347 @@
+---
+title: "Bases Acadêmicas de Pesquisa"
+subtitle: "Panorama e uso prático para a Área do Direito"
+author: 
+  - name: "Prof. Dr. Ulisses Reis (PPGD/UFERSA)"
+institute: "<div id='social-links'><a href='mailto:ulisseslreis@gmail.com' title='E-mail'><i class='fa fa-envelope'></i></a> <a href='https://github.com/ulisseslsreis' title='GitHub' target='_blank'><i class='fab fa-github'></i></a> <a href='https://www.linkedin.com/in/ulisses-reis-797919247/' title='LinkedIn' target='_blank'><i class='fab fa-linkedin'></i></a> <a href='https://bsky.app/profile/ulissesreis.bsky.social' title='Bluesky' target='_blank'><i class='fab fa-bluesky'></i></a> <a href='https://www.researchgate.net/profile/Ulisses-Reis-2' title='ResearchGate' target='_blank'><i class='ai ai-researchgate'></i></a> <a href='https://lattes.cnpq.br/5041818002534490' title='Lattes' target='_blank'><i class='ai ai-lattes'></i></a> <a href='https://orcid.org/0000-0003-1476-416X' title='ORCID' target='_blank'><i class='ai ai-orcid'></i></a> <a href='https://www.instagram.com/ulisseslsreis/' title='Instagram' target='_blank'><i class='fab fa-instagram'></i></a></div>"
+date: today
+date-format: "DD [de] MMMM [de] YYYY"
+lang: pt
+format: 
+  revealjs:
+    theme: serif
+    slide-number: true
+    incremental: true
+    transition: fade
+    preview-links: false
+    chalkboard: true
+    css: styles.css
+    center-title-slide: true
+    footer: "Universidade Federal Rural do Semiárido (UFERSA)"
+    width: 1366
+    height: 768
+    title-slide-attributes:
+      data-background-image: imagens/ufersa_20_anos_marca.png
+      data-background-size: 1500px
+      data-background-position: "center -250px"
+      data-background-repeat: no-repeat
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+editor: visual
+---
+
+## Por que dominar bases acadêmicas?
+
+-   Revisão de literatura
+-   Identificação do estado da arte
+-   Medir impacto científico
+-   Mapear lacunas de pesquisa
+-   Formular perguntas originais 🤔
+
+------------------------------------------------------------------------
+
+## Bases × Indexadores × Repositórios
+
+::::: columns
+::: {.column width="50%"}
+**Base de dados**
+
+-   Conteúdo selecionado
+-   Metadados estruturados
+-   Ferramentas analíticas
+-   Ex: SciELO, Scopus, Web of Science
+
+**Repositório**
+
+-   Armazena trabalhos
+-   Foco em acesso aberto
+-   Ex: Portal de Teses e Dissertações CAPES
+:::
+
+::: {.column width="50%"}
+**Indexador**
+
+-   Rastreamento amplo
+-   Qualidade variável
+-   Ex: Google Acadêmico
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Portal de Teses e Dissertações da CAPES
+
+::: {style="text-align: center; margin-top: 2%;"}
+![Tela inicial do Portal de Teses e Dissertações da CAPES](imagens/print_portal_teses_diss_capes.png){width="80%" fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+## Portal de Teses e Dissertações da CAPES
+
+::::: columns
+::: {.column width="50%"}
+**Características**
+
+-   Repositório nacional de teses e dissertações
+-   Programas reconhecidos pela CAPES
+-   Cobertura desde 1987
+-   +1,3 milhão de trabalhos (estimativa)
+-   Acesso gratuito
+:::
+
+::: {.column width="50%"}
+**Utilidade**
+
+-   Mapear produção científica
+-   Identificar temas emergentes
+-   Analisar distribuição por IES
+-   Estudos bibliométricos
+-   Base ideal para teses e dissertações brasileiras
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## SciELO (Scientific Electronic Library Online)
+
+::: {style="text-align: center; margin-top: 2%;"}
+![Tela inicial do Portal SciELO](imagens/print_scielo.png){width="80%" fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+## SciELO (Scientific Electronic Library Online)
+
+::::: columns
+::: {.column width="50%"}
+**Características**
+
+-   Rede de periódicos científicos
+-   Forte presença latino-americana
+-   Acesso aberto
+-   \+ de 1.300 periódicos ativos
+-   16 países participantes
+:::
+
+::: {.column width="50%"}
+**Utilidade**
+
+-   Artigos em português e espanhol
+-   Principais revistas jurídicas brasileiras
+-   Exportação de citações
+-   Métricas de acesso
+-   API para coleta de dados
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Scopus (Elsevier)
+
+::: {style="text-align: center; margin-top: 2%;"}
+![Tela inicial do Portal SCOPUS](imagens/print_scopus.png){width="80%" fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+## Scopus (Elsevier)
+
+::::: columns
+::: {.column width="50%"}
+**Características**
+
+-   Base multidisciplinar
+-   Uma das maiores do mundo
+-   +28 mil periódicos
+-   \~92 milhões de registros
+-   Acesso institucional
+:::
+
+::: {.column width="50%"}
+**Utilidade**
+
+-   Busca avançada internacional
+-   Métricas científicas
+-   h-index e CiteScore
+-   Redes de colaboração
+-   Exportação de dados
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Web of Science (Clarivate)
+
+::: {style="text-align: center; margin-top: 2%;"}
+![Tela inicial do Portal Web of Science](imagens/print_web_of_science.png){width="80%" fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+## Web of Science (Clarivate)
+
+::::: columns
+::: {.column width="50%"}
+**Características**
+
+-   Base histórica da ciência
+-   Critérios rigorosos de seleção
+-   Menor cobertura que Scopus
+-   Métrica principal: JIF
+-   Referência para avaliação científica
+:::
+
+::: {.column width="50%"}
+**Utilidade**
+
+-   Análise de citações
+-   Impacto de periódicos
+-   Journal Citation Reports
+-   Genealogia de citações
+-   Avaliação institucional
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Redalyc (Rede ibero-americana de periódicos)
+
+::: {style="text-align: center; margin-top: 2%;"}
+![Tela inicial do Portal Redalyc](imagens/print_redalyc.png){width="80%" fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+## Redalyc (Rede ibero-americana de periódicos)
+
+::::: columns
+::: {.column width="50%"}
+**Características**
+
+-   Repositório científico aberto
+-   Foco em América Latina
+-   Publicação sem APC
+-   +1.580 revistas
+-   Acesso gratuito
+:::
+
+::: {.column width="50%"}
+**Utilidade**
+
+-   Literatura latino-americana
+-   Artigos completos em PDF
+-   Dados abertos
+-   Complemento ao SciELO
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Google Acadêmico
+
+::: {style="text-align: center; margin-top: 2%;"}
+![Tela inicial do Portal Google Acadêmico](imagens/print_google_scholar.png){width="80%" fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+## Google Acadêmico
+
+::::: columns
+::: {.column width="50%"}
+**Usos comuns**
+
+-   Busca rápida por artigos
+-   Encontrar versões preprint
+-   Localizar citações
+-   Perfis de pesquisadores
+-   Teses e anais
+:::
+
+::: {.column width="50%"}
+**Limitações relevantes**
+
+-   Não é base estruturada
+-   Metadados inconsistentes
+-   Fontes sem revisão por pares
+-   Citações duplicadas
+-   Usar apenas para descoberta
+:::
+:::::
+
+::: {style="font-size: 0.55em; color: #5f6b76; text-align: center; margin-top: 1em;"}
+*"Google Acadêmico não é base de dados. É uma caixa de sugestões."*
+:::
+
+------------------------------------------------------------------------
+
+## Comparativo
+
+| Base             | Tipo           | Acesso        | Melhor uso          |
+|------------------|----------------|---------------|---------------------|
+| CAPES            | Repositório    | Gratuito      | Teses brasileiras   |
+| SciELO           | Base aberta    | Gratuito      | Artigos LATAM       |
+| Scopus           | Base comercial | Institucional | Bibliometria        |
+| WoS              | Base comercial | Institucional | Impacto científico  |
+| Redalyc          | Base aberta    | Gratuito      | Produção 31 países. |
+| Google Acadêmico | Indexador      | Gratuito      | Busca inicial 🙏    |
+
+------------------------------------------------------------------------
+
+## Estratégia de busca possível
+
+**Pesquisa jurídica brasileira**
+
+CAPES → SciELO → Scopus
+
+**Análise bibliométrica**
+
+Scopus ou Web of Science
+
+**Literatura latino-americana**
+
+SciELO + Redalyc
+
+**Busca rápida**
+
+Google Acadêmico
+
+::: {style="font-size: 0.55em; color: #5f6b76; margin-top: 1.5em;"}
+⚠️ Iniciar pelo Google Acadêmico e parar por aí não é estratégia. É esperança.
+:::
+
+------------------------------------------------------------------------
+
+## Recursos
+
+::::: columns
+::: {.column width="50%"}
+**Portais**
+
+-   [catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
+-   [scielo.br](https://www.scielo.br/)
+-   [scopus.com](https://www.scopus.com/pages/home#basic)
+-   [webofscience.com](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/)
+-   [redalyc.org](https://www.redalyc.org/)
+-   [scholar.google.com](https://scholar.google.com/)
+:::
+
+::: {.column width="50%"}
+**Pacotes**
+
+-   [`capesR`](https://cran.r-project.org/web/packages/capesR/index.html)
+-   [`rscopus`](https://cran.r-project.org/web/packages/rscopus/index.html)
+-   [`easyScieloPack`](https://cran.r-project.org/web/packages/easyScieloPack/index.html)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Hora de botar a mão na massa!!!
+
+::: {style="text-align: center; margin-top: 0%;"}
+![](imagens/hermione_leviosa.gif){width="80%"}
+:::
